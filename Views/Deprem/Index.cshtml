@@ -1,0 +1,32 @@
+@model Newtonsoft.Json.Linq.JArray
+
+
+
+<h2>Son Depremler</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tarih</th>
+            <th>Saat</th>
+            <th>Enlem</th>
+            <th>Boylam</th>
+            <th>Derinlik</th>
+            <th>Büyüklük</th>
+            <th>Yer</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item["tarih"]</td>
+                <td>@item["saat"]</td>
+                <td>@item["enlem"]</td>
+                <td>@item["boylam"]</td>
+                <td>@item["derinlik"]</td>
+                <td>@item["buyukluk"]</td>
+                <td>@item["yer"]</td>
+            </tr>
+        }
+    </tbody>
+</table>
