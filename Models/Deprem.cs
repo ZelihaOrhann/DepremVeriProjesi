@@ -7,13 +7,13 @@ namespace DepremVeriProjesi.Models
     {
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
-        public string Id { get; set; }
+        public string? Id { get; set; }
 
         [BsonElement("tarih")]
         public DateTime Tarih { get; set; }
 
         [BsonElement("lokasyon")]
-        public string Lokasyon { get; set; }
+        public string? Lokasyon { get; set; }
 
         [BsonElement("buyukluk")]
         public double Buyukluk { get; set; }

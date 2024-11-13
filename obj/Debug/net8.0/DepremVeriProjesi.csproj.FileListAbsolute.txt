@@ -1,11 +1,3 @@
-C:\Users\zelih\DepremVeriProjesi\obj\Debug\net8.0\DepremVeriProjesi.csproj.AssemblyReference.cache
-C:\Users\zelih\DepremVeriProjesi\obj\Debug\net8.0\DepremVeriProjesi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\zelih\DepremVeriProjesi\obj\Debug\net8.0\DepremVeriProjesi.AssemblyInfoInputs.cache
-C:\Users\zelih\DepremVeriProjesi\obj\Debug\net8.0\DepremVeriProjesi.AssemblyInfo.cs
-C:\Users\zelih\DepremVeriProjesi\obj\Debug\net8.0\DepremVeriProjesi.csproj.CoreCompileInputs.cache
-C:\Users\zelih\DepremVeriProjesi\obj\Debug\net8.0\DepremVeriProjesi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\zelih\DepremVeriProjesi\obj\Debug\net8.0\DepremVeriProjesi.RazorAssemblyInfo.cache
-C:\Users\zelih\DepremVeriProjesi\obj\Debug\net8.0\DepremVeriProjesi.RazorAssemblyInfo.cs
 C:\Users\zelih\DepremVeriProjesi\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\zelih\DepremVeriProjesi\bin\Debug\net8.0\appsettings.json
 C:\Users\zelih\DepremVeriProjesi\bin\Debug\net8.0\DepremVeriProjesi.staticwebassets.runtime.json
@@ -22,6 +14,15 @@ C:\Users\zelih\DepremVeriProjesi\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\zelih\DepremVeriProjesi\bin\Debug\net8.0\SharpCompress.dll
 C:\Users\zelih\DepremVeriProjesi\bin\Debug\net8.0\Snappier.dll
 C:\Users\zelih\DepremVeriProjesi\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\zelih\DepremVeriProjesi\obj\Debug\net8.0\DepremVeriProjesi.csproj.AssemblyReference.cache
+C:\Users\zelih\DepremVeriProjesi\obj\Debug\net8.0\DepremVeriProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelih\DepremVeriProjesi\obj\Debug\net8.0\DepremVeriProjesi.AssemblyInfoInputs.cache
+C:\Users\zelih\DepremVeriProjesi\obj\Debug\net8.0\DepremVeriProjesi.AssemblyInfo.cs
+C:\Users\zelih\DepremVeriProjesi\obj\Debug\net8.0\DepremVeriProjesi.csproj.CoreCompileInputs.cache
+C:\Users\zelih\DepremVeriProjesi\obj\Debug\net8.0\DepremVeriProjesi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zelih\DepremVeriProjesi\obj\Debug\net8.0\DepremVeriProjesi.RazorAssemblyInfo.cache
+C:\Users\zelih\DepremVeriProjesi\obj\Debug\net8.0\DepremVeriProjesi.RazorAssemblyInfo.cs
+C:\Users\zelih\DepremVeriProjesi\obj\Debug\net8.0\DepremVeriProjesi.sourcelink.json
 C:\Users\zelih\DepremVeriProjesi\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\zelih\DepremVeriProjesi\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\zelih\DepremVeriProjesi\obj\Debug\net8.0\staticwebassets\msbuild.DepremVeriProjesi.Microsoft.AspNetCore.StaticWebAssets.props
